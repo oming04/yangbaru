@@ -15,7 +15,8 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1250450587",
+      "required": false
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -48,7 +49,7 @@
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
+      "value": "True",
       "required": false
     }
   },
